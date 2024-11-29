@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">KT_06_Persistencia</string>
+    <string name="txtBoton">Ejecutar</string>
+    <string name="btnRecuperar">Recuperar</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="nombrePersona">Nombre de la persona</string>
+    <string name="btnCargar">Cargar</string>
+    <string name="Grabar">Grabar</string>
 </resources>
